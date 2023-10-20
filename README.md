@@ -1,2 +1,2 @@
-# GloFAS_Q2Q_Bias_Correction_and_Verification
+# CWC NWA ArcGIS Pro and Bias Correction Training Repository
  
