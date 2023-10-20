@@ -1,0 +1,7 @@
+Requirement already satisfied: xarray in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (2023.6.0)
+Requirement already satisfied: numpy>=1.21 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (from xarray) (1.22.4)
+Requirement already satisfied: pandas>=1.4 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (from xarray) (1.4.4)
+Requirement already satisfied: packaging>=21.3 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (from xarray) (23.0)
+Requirement already satisfied: python-dateutil>=2.8.1 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (from pandas>=1.4->xarray) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages\pytz-2022.6-py3.9.egg (from pandas>=1.4->xarray) (2022.6)
+Requirement already satisfied: six>=1.5 in c:\users\ksampson\appdata\local\esri\conda\envs\arcgispro-py3-clone\lib\site-packages (from python-dateutil>=2.8.1->pandas>=1.4->xarray) (1.16.0)

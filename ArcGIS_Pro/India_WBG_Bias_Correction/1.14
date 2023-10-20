@@ -1,0 +1,15 @@
+Collecting xarray==2023.6.0
+  Obtaining dependency information for xarray==2023.6.0 from https://files.pythonhosted.org/packages/c7/47/fb353a66fb5337deed8546acb1746bc3cb7e8c9c3518188a4c9bef776810/xarray-2023.6.0-py3-none-any.whl.metadata
+  Using cached xarray-2023.6.0-py3-none-any.whl.metadata (6.0 kB)
+Collecting netCDF4==1.6.4
+  Obtaining dependency information for netCDF4==1.6.4 from https://files.pythonhosted.org/packages/24/94/878fd6f90ce9ddfcb72c95b5c203279da7c178327e7c6781772b510f8182/netCDF4-1.6.4-cp39-cp39-win_amd64.whl.metadata
+  Using cached netCDF4-1.6.4-cp39-cp39-win_amd64.whl.metadata (1.7 kB)
+Collecting scipy==1.11.1
+  Obtaining dependency information for scipy==1.11.1 from https://files.pythonhosted.org/packages/96/9b/10048be0c335327077af430c5a6637c0b9e7fe9121a8048836f1bb022a81/scipy-1.11.1-cp39-cp39-win_amd64.whl.metadata
+  Using cached scipy-1.11.1-cp39-cp39-win_amd64.whl.metadata (59 kB)
+Collecting numpy==1.24.4
+  Obtaining dependency information for numpy==1.24.4 from https://files.pythonhosted.org/packages/63/38/6cc19d6b8bfa1d1a459daf2b3fe325453153ca7019976274b6f33d8b5663/numpy-1.24.4-cp39-cp39-win_amd64.whl.metadata
+  Using cached numpy-1.24.4-cp39-cp39-win_amd64.whl.metadata (5.6 kB)
+Collecting pandas==2.0.3
+  Obtaining dependency information for pandas==2.0.3 from https://files.pythonhosted.org/packages/9a/f2/0ad053856debbe90c83de1b4f05915f85fd2146f20faf9daa3b320d36df3/pandas-2.0.3-cp39-cp39-win_amd64.whl.metadata
+  Using cached pandas-2.0.3-cp39-cp39-win_amd64.whl.metadata (18 kB)

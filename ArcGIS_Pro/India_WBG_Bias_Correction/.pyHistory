@@ -1,0 +1,5 @@
+﻿arcpy.ia.RasterToXarray("gfs_0p25_1hr_00z_gfs20230906_CopyRaster.crf", "gfs_0p25_1hr_00z_gfs20230906.nc_pr")
+arcpy.ia.RasterToXarray("gfs_0p25_1hr_00z_gfs20230906_CopyRaster.crf")
+test = arcpy.ia.RasterToXarray("gfs_0p25_1hr_00z_gfs20230906_CopyRaster.crf")
+test
+test['latitude_longitude']

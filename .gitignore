@@ -1,9 +1,9 @@
 # Ignore the scratch directory
-ArcGIS_Pro/
 notebooks/.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/*.lock
 data/input
 data/output
-data/*
 data/training_data.tar.gz
 scripts/__pycache__
 documents/~*
