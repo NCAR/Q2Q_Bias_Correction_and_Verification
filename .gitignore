@@ -7,3 +7,4 @@ data/output
 data/training_data.tar.gz
 scripts/__pycache__
 documents/~*
+**/Default.gdb/*
